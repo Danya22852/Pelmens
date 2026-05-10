@@ -1,0 +1,45 @@
+body {
+    background: linear-gradient(skyblue, white);
+    height: 110vh;
+    margin: 0;
+    text-align: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.had {
+    background: papayawhip;
+    width: 90%;
+    height: 75px;
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+    border-radius: 4%;
+}
+.footer {
+    width: 90%;
+    height: auto;
+    font-size: 45px;
+    background: papayawhip;
+    border: 3px solid black;
+    border-radius: 4%;
+}
+button {
+    background: thistle;
+}
+.main {
+    width: 90%;
+    height: auto;
+    background: papayawhip;
+    border: 3px solid black;
+    border-radius: 4%;
+    text-align: left;
+}
+img {
+    width: auto;
+    height: 200px;
+    left: 60%;
+    position: absolute;
+    bottom: 265px;
+}

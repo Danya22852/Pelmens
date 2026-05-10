@@ -37,8 +37,8 @@ button {
     text-align: left;
 }
 img {
-    width: 400px;
-    height: 200px;
+    width: auto;
+    height: 400px;
     left: 60%;
     position: absolute;
     bottom: 265px;
